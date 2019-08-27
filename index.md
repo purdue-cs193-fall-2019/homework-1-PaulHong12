@@ -1,4 +1,4 @@
-# <Paul Hong>'s First CS193 Homework
+# Paul Hong's First CS193 Homework
   
   - small class
   - instructors
